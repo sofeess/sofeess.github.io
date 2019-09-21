@@ -6,8 +6,7 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 2em;
     padding: 0px;
-    list-style: none;
-    font-weight: bold;
+    list-style: none;    
 }
 nav ul li, footer ul li {
     display: inline;
@@ -23,6 +22,7 @@ a:hover {
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: bold;
 }
 p {
     font-size: 1.5em;
